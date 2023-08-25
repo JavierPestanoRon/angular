@@ -22,9 +22,9 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## EsLint
+## Guide to use EsLint, Husky, CommitLint & Prettier
 
-[Repository to install esLint](https://github.com/angular-eslint/angular-eslint).
+[Github guide](https://gist.github.com/mugan86/b911a73ff98b0b2c72e7e790ce4807db).
 
 ## Further help
 
